@@ -1,0 +1,42 @@
+{
+	"resource_pack-name": "vanilla",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"pyramid_rare": {
+			"textures": "textures/cards/pyramid_rare"
+		},
+		"pyramid_night_rare": {
+			"textures": "textures/cards/pyramid_night_rare"
+		},
+		"pyramid_night_reverse": {
+			"textures": "textures/cards/pyramid_night_reverse"
+		},
+		"enderman_common": {
+			"textures": "textures/cards/enderman_common"
+		},
+		"ender_dragon_rare": {
+			"textures": "textures/cards/ender_dragon_rare"
+		},
+		"creeper_rare": {
+			"textures": "textures/cards/creeper_rare"
+		},
+		"creeper_alternate": {
+			"textures": "textures/cards/creeper_alternate"
+		},
+		"blaze_legendary": {
+			"textures": "textures/cards/blaze_legendary"
+		},
+		"wither_common": {
+			"textures": "textures/cards/wither_common"
+		},
+		"igloo_common": {
+			"textures": "textures/cards/igloo_common"
+		},
+		"igloo_uncommon": {
+			"textures": "textures/cards/igloo_uncommon"
+		},
+		"phantom_legendary": {
+			"textures": "textures/cards/phantom_legendary"
+		}
+	}
+}

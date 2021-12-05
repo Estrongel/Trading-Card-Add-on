@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Trading Cards Add-on",
+        "name": "Trading Cards Add-on",
+        "uuid": "6c3e59af-ef65-440f-b0a1-87684fcb460c",
+        "version": [1, 2, 0],
+        "min_engine_version": [1, 16, 100]
+    },
+    "modules": [
+        {
+        "description": "Trading Cards Add-on",
+            "type": "resources",
+            "uuid": "36998a42-1847-4410-9e95-f30e4e9978fd",
+            "version": [1, 2, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "00b874ef-3b69-4ffd-9cd7-1f0ba60dfb04",
+            "version": [1, 2, 0]
+        }
+   ]
+}
