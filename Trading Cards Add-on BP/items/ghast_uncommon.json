@@ -1,0 +1,53 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+      "description": {
+          "identifier": "trading:ghast_uncommon",
+          "category": "items"
+      },
+      "components": {
+          "minecraft:icon": {
+              "texture": "ghast_uncommon"
+          },
+          "minecraft:display_name": {
+            "value": "Flying Squid!"
+          },
+          "minecraft:max_stack_size": 64,
+          "minecraft:allow_off_hand": true,
+          "minecraft:render_offsets": {
+            "main_hand": {
+                "first_person": {
+                    "scale": [
+                        0.0175,
+                        0.0225,
+                        0.0175
+                    ]
+                },
+                "third_person": {
+                    "scale": [
+                        0.0375,
+                        0.0625,
+                        0.0375
+                    ]
+                }
+            },
+            "off_hand": {
+                "first_person": {
+                    "scale": [
+                        0.0175,
+                        0.0225,
+                        0.0175
+                    ]
+                },
+                "third_person": {
+                    "scale": [
+                        0.0375,
+                        0.0625,
+                        0.0375
+                    ]
+                }
+            }
+        }
+      }
+  }
+}

@@ -37,6 +37,24 @@
 		},
 		"phantom_legendary": {
 			"textures": "textures/cards/phantom_legendary"
+		},
+		"end_city_uncommon": {
+			"textures": "textures/cards/end_city_uncommon"
+		},
+		"ghast_uncommon": {
+			"textures": "textures/cards/ghast_uncommon"
+		},
+		"mineshaft_common": {
+			"textures": "textures/cards/mineshaft_common"
+		},
+		"mineshaft_uncommon": {
+			"textures": "textures/cards/mineshaft_uncommon"
+		},
+		"mineshaft_legendary": {
+			"textures": "textures/cards/mineshaft_legendary"
+		},
+		"panda_common": {
+			"textures": "textures/cards/panda_common"
 		}
 	}
 }
