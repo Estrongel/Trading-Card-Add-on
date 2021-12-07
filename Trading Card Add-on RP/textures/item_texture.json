@@ -55,6 +55,15 @@
 		},
 		"panda_common": {
 			"textures": "textures/cards/panda_common"
+		},
+		"ender_dragon_legendary": {
+			"textures": "textures/cards/ender_dragon_legendary"
+		},
+		"creeper_common": {
+			"textures": "textures/cards/creeper_common"
+		},
+		"skeleton_common": {
+			"textures": "textures/cards/skeleton_common"
 		}
 	}
 }
