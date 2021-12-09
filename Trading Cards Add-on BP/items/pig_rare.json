@@ -10,7 +10,7 @@
               "texture": "pig_rare"
           },
           "minecraft:display_name": {
-            "value": "§bmuddy pig"
+            "value": "Muddy Days"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,
