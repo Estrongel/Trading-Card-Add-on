@@ -10,7 +10,7 @@
               "texture": "pyramid_night_rare"
           },
           "minecraft:display_name": {
-            "value": "§cPyramid Night Sky"
+            "value": "§bPyramid Night Sky"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,
