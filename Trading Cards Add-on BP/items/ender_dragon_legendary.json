@@ -10,7 +10,7 @@
               "texture": "ender_dragon_legendary"
           },
           "minecraft:display_name": {
-            "value": "Purple Eyes Black Dragon"
+            "value": "§6Purple Eyes Black Dragon"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,
