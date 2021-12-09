@@ -64,6 +64,18 @@
 		},
 		"skeleton_common": {
 			"textures": "textures/cards/skeleton_common"
+		},
+		"zombie_common": {
+			"textures": "textures/cards/zombie_common"
+		}
+		"pig_common": {
+			"textures": "textures/cards/pig_common"
+		}
+		"pig_uncommon": {
+			"textures": "textures/cards/pig_uncommon"
+		}
+		"pig_rare": {
+			"textures": "textures/cards/pig_rare"
 		}
 	}
 }
