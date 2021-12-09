@@ -10,7 +10,7 @@
               "texture": "ender_dragon_rare"
           },
           "minecraft:display_name": {
-            "value": "End Destruction"
+            "value": "§bEnd Destruction"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,

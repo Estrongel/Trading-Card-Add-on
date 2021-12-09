@@ -10,7 +10,7 @@
               "texture": "igloo_uncommon"
           },
           "minecraft:display_name": {
-            "value": "A Freezing Hovel"
+            "value": "§aA Freezing Hovel"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,

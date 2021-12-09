@@ -10,7 +10,7 @@
               "texture": "phantom_legendary"
           },
           "minecraft:display_name": {
-            "value": "Eyes in the Night"
+            "value": "§6Eyes in the Night"
           },
           "minecraft:max_stack_size": 64,
           "minecraft:allow_off_hand": true,
