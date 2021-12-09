@@ -65,17 +65,35 @@
 		"skeleton_common": {
 			"textures": "textures/cards/skeleton_common"
 		},
+		"pufferfish_reverse": {
+			"textures": "textures/cards/pufferfish_reverse"
+		},
+		"pufferfish_rare": {
+			"textures": "textures/cards/pufferfish_rare"
+		},
+		"pufferfish_uncommon": {
+			"textures": "textures/cards/pufferfish_uncommon"
+		},
 		"zombie_common": {
 			"textures": "textures/cards/zombie_common"
-		}
+		},
 		"pig_common": {
 			"textures": "textures/cards/pig_common"
-		}
+		},
 		"pig_uncommon": {
 			"textures": "textures/cards/pig_uncommon"
-		}
+		},
 		"pig_rare": {
 			"textures": "textures/cards/pig_rare"
+		},
+		"pig_alternate": {
+			"textures": "textures/cards/pig_alternate"
+		},
+		"chicken_common": {
+			"textures": "textures/cards/chicken_common"
+		},
+		"chicken_rare": {
+			"textures": "textures/cards/chicken_rare"
 		}
 	}
 }
